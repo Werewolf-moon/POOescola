@@ -56,4 +56,3 @@ print(pessoa.apresentar())
 print(aluno.apresentar())
 print(professor.apresentar())
 
-#teste de commit
